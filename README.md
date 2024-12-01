@@ -5,7 +5,7 @@
 * POST /users/register - Register (username/password).
 * POST /users/login - Login (username/password).
 * PUT /users/update-profile - Update user's profile.
-* PUT /users/delete-account - Delete account.
+* POST /users/delete-account - Delete account.
 
 ## Task Routes
 * GET /task/all-tasks?filter=<all|done|undone> - Get tasks for the logged-in user.
